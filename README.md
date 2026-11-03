@@ -1,6 +1,6 @@
 # Dominion Fall: play in your browser
 
-**Play:** https://aryananandjha.github.io/dominion-fall-playable/
+**Play:** https://aryananandjha.github.io/Dominion-Fall-Playable/
 
 This repository holds only the web build of *Dominion Fall*, a third-person
 game where every enemy thinks for itself, a hive mind gives them orders, and
