@@ -11,4 +11,5 @@ the colony learns how you fight. Made by Aryan Anand Jha.
   left. Shift sprints (tap to roll), C slides, Esc pauses; K on the pause
   screen rebinds any key.
 
+© 2026 Aryan Anand Jha. All rights reserved; see [LICENSE](LICENSE).
 Asset credits are in [CREDITS.md](CREDITS.md).
